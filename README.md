@@ -18,9 +18,7 @@
 
 微信搜索「**智子位**」，获取每日推送，不错过任何重要 AI 资讯。
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aizhiziwei/ai-daily-news/main/assets/qrcode.png" width="300" alt="智子位公众号二维码" />
-</p>
+![智子位公众号二维码](https://raw.githubusercontent.com/aizhiziwei/ai-daily-news/main/assets/qrcode.png)
 
 ## 📄 License
 
