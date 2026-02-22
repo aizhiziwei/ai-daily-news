@@ -23,6 +23,6 @@ order: 4
 
 微信搜索「**智子位**」或扫描下方二维码，获取每日推送：
 
-![智子位公众号](/ai-daily-news/assets/qrcode.png){: width="300" }
+![智子位公众号](/assets/qrcode.png){: width="300" }
 
 > 不追热点，只追真正影响行业的信号。
